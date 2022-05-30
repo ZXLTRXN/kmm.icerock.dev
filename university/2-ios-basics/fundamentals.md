@@ -35,11 +35,11 @@ sidebar_position: 1
     - [x] задача (стр 216)
 - [x] 2.6 - циклы
     - [x] задача (стр 226)
-- [ ] 2.7 - разбор UILabel, UIButton, UIImageView, UITextView, ScrollView, TableView и т.д и их свойств ViewController -
+- [x] 2.7 - разбор UILabel, UIButton, UIImageView, UITextView, ScrollView, TableView и т.д и их свойств ViewController -
   что это и зачем. Маленькое приложение пример с добавлением изученных View
     - [ ] задача (стр 248)
-- [ ] 2.8 - пример использования Interface Builder, кастомизация UIImageView и Label
-    - [ ] задача (стр 262)
+- [x] 2.8 - пример использования Interface Builder, кастомизация UIImageView и Label
+    - [x] задача (стр 262)
 - [ ] 2.9 - Controls(Button, Switch, slider, textField) как получать значения и привязывать к выполнению кода
     - [ ] задача (стр 285)
 - [ ] 2.10 - для чего нужны и как пользоваться Constraint'ами  
