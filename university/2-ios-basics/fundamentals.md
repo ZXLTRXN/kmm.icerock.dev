@@ -56,8 +56,8 @@ sidebar_position: 1
     - [x] задача (стр 398)
 - [x] 3.5 - Enums
     - [x] задача (стр 405)
-- [ ] 3.6 - Navigation Controllers, Navigation Bar
-    - [ ] задача (стр 432)
+- [x] 3.6 - Navigation Controllers, Navigation Bar
+    - [x] задача (стр 432)
 - [ ] 3.7 - TabBar - довольно много, можно понять суть и хватит
     - [ ] задача (стр 455)
 - [ ] 3.8 - ViewController lifecycle
