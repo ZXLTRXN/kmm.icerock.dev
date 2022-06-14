@@ -43,7 +43,7 @@ sidebar_position: 2
     - [ ] задача (стр 449)
 - [x] 3.1 Collection Views
     - [ ] задача (стр 574)
-- [ ] 3.2 Generics
+- [x] 3.2 Generics
 
 ## Вопросы для самопроверки
 
