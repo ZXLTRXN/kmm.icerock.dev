@@ -41,7 +41,7 @@ sidebar_position: 2
     - [ ] задача (стр 423)
 - [x] 2.6 Продолжение работы с WEB
     - [ ] задача (стр 449)
-- [ ] 3.1 Collection Views
+- [x] 3.1 Collection Views
     - [ ] задача (стр 574)
 - [ ] 3.2 Generics
 
